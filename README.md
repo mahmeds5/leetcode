@@ -11,4 +11,8 @@ Compilation of the LeetCode problems I've completed.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mahmeds5/leetcode/tree/main/0001-two-sum/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/mahmeds5/leetcode/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
